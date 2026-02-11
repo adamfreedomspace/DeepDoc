@@ -2,19 +2,6 @@
 
 [中文](README.zh-CN.md) | [English](README.md)
 
-<div align="center">
-  <img src="/img/favicon.png" alt="OpenDeepWiki Logo" width="220" />
-  <h3>AI-Driven Code Knowledge Base</h3>
-</div>
-
----
-
-# enterprise service
-
-[Pricing of enterprise services](https://docs.opendeep.wiki/pricing)
-
-Our enterprise service offers comprehensive support and flexibility for businesses seeking professional AI solutions.
-
 ---
 
 # Features
@@ -49,7 +36,6 @@ Our enterprise service offers comprehensive support and flexibility for business
 
 # Project Introduction
 
-OpenDeepWiki is an open-source project inspired by [DeepWiki](https://deepwiki.com/), developed based on .NET 9 and Semantic Kernel. It aims to help developers better understand and utilize code repositories, providing features such as code analysis, documentation generation, and knowledge graph construction.
 
 Main Features:
 
